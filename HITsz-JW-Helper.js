@@ -455,7 +455,7 @@
         </div>
     </div>
 
-    <p class="footer">Source: https://github.com/isHarryh/USTB-Awesome-JS</p>
+    <p class="footer">Source: https://github.com/ChillyHigh/HITsz-JW-Helper</p>
 </div>
 `);
             $("body").append($panel);
